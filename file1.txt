@@ -1,1 +1,3 @@
 Content of file1
+
+Edited from remote
